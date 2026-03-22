@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="lab5pyt/lab5pyt.vcxproj" Id="cca07f02-e36a-43bd-9873-f54791746baf" />
-</Solution>
